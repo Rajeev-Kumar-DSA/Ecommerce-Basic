@@ -13,7 +13,7 @@ Using JavaFX, SQL connection, CRUD operation
 9. SQL Connection (Create , Update, Read)
 
 
-<span style="color:red;"># Helped Link</span>
+## 'Helped Link'
 Grid Pane:  https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/GridPane.html
 Types Of Pane: https://docs.oracle.com/javafx/2/layout/builtin_layouts.htm
 Text javaFX :  https://docs.oracle.com/javase/8/javafx/api/javafx/scene/text/Text.html
